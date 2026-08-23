@@ -21,7 +21,7 @@ function shell(): string {
         SecureGitX is a local first pre-commit secret scanner that blocks API keys, tokens, credentials, or sensitive filenames before they get committed.</p>
         <div class="hero__actions">
           <button class="btn-primary" id="home-docs-btn">Read the docs →</button>
-          <a class="btn-ghost" href="https://github.com/peroxile/SecureGitX"
+          <a class="btn-ghost" href="https://github.com/Ozag-Labs/SecureGitX"
              target="_blank" rel="noopener noreferrer">GitHub ↗</a>
         </div>
       </section>
@@ -53,8 +53,8 @@ function shell(): string {
 
       <footer class="footer">
         Apache 2.0 ·
-        <a href="https://github.com/peroxile/SecureGitX"
-           target="_blank" rel="noopener noreferrer">github.com/peroxile/SecureGitX</a>
+        <a href="https://github.com/Ozag-Labs/SecureGitX"
+           target="_blank" rel="noopener noreferrer">github.com/Ozag-Labs/SecureGitX</a>
       </footer>
     </div>`;
 }

@@ -218,5 +218,5 @@ export const CATEGORIES: { key: PageMeta["category"]; label: string }[] = [
 
 // GitHub source URL for "View source" link on doc pages
 export function sourceUrl(file: string): string {
-  return `https://github.com/peroxile/SecureGitX/blob/main${file}`;
+  return `https://github.com/Ozag-Labs/SecureGitX/blob/main${file}`;
 }
