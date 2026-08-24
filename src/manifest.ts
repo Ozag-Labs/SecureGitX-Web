@@ -10,7 +10,7 @@ export interface PageMeta {
   related: string[]; // internal slugs
 }
 
-const GITHUB_RAW = "https://raw.githubusercontent.com/peroxile/SecureGitX/main";
+const GITHUB_RAW = "https://raw.githubusercontent.com/Ozag-Labs/SecureGitX/main";
 export const README_URL = `${GITHUB_RAW}/README.md`;
 
 export const PAGES: PageMeta[] = [
